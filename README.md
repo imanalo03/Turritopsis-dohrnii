@@ -1,2 +1,3 @@
 # Turritopsis-dohrnii
-the immortal jellyfish
+The immortal jellyfish
+Turritopsis dohrnii 
