@@ -8,18 +8,22 @@ This research explores the reasons why immortal jellyfish stay young, avoid agin
 **Obtain Genomic or Transcriptomic Data:**
 
 -Search public databases like NCBI for available datasets of _Turritopsis dohrnii_ and _Turritopsis rubra_.
-Use SRAtoolkit to download Sequence Read Archive (SRA) data efficiently.
-For other animals, use databases like Ensembl or NCBI. 
+
+-Use SRAtoolkit to download Sequence Read Archive (SRA) data efficiently.
+
+-For other animals, use databases like Ensembl or NCBI. 
 
 **Data Preprocessing:**
 
 -Perform quality control on your raw sequencing data using tools like FastQC.
-Trim and filter reads with Trimmomatic to remove low-quality bases or adapter sequences.
+
+-Trim and filter reads with Trimmomatic to remove low-quality bases or adapter sequences.
 
 **Genome Assembly or Transcriptome Assembly:**
 
 -Assemble the genomic or transcriptomic data of _Turritopsis dohrnii_ and _Turritopsis rubra_.
-Use genome assemblers like SPAdes and de novo assembly methods.
+
+-Use genome assemblers like SPAdes and de novo assembly methods.
 
 **Gene Annotation:**
 
