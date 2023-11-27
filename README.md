@@ -5,34 +5,34 @@ Welcome to the JellGene Project repository! The focus of this project is to inve
 
 This research explores the reasons why immortal jellyfish stay young, avoid aging, and escape death from old age. By examining their genes and comparing them with _Turritopsis rubra_, a regular jellyfish, I aim to identify the specific genes responsible for this extraordinary trait. The hope is that understanding these immortal genes will shed more light on the aging process and help find ways to keep cells healthy and rejuvenated.
 
-Obtain Genomic or Transcriptomic Data:
+**Obtain Genomic or Transcriptomic Data:**
 
-Search public databases like NCBI for available datasets of _Turritopsis dohrnii_ and _Turritopsis rubra_.
+-Search public databases like NCBI for available datasets of _Turritopsis dohrnii_ and _Turritopsis rubra_.
 Use SRAtoolkit to download Sequence Read Archive (SRA) data efficiently.
 For other animals, use databases like Ensembl or NCBI. 
 
-Data Preprocessing:
+**Data Preprocessing:**
 
-Perform quality control on your raw sequencing data using tools like FastQC.
+-Perform quality control on your raw sequencing data using tools like FastQC.
 Trim and filter reads with Trimmomatic to remove low-quality bases or adapter sequences.
 
-Genome Assembly or Transcriptome Assembly:
+**Genome Assembly or Transcriptome Assembly:**
 
-Assemble the genomic or transcriptomic data of _Turritopsis dohrnii_ and _Turritopsis rubra_.
+-Assemble the genomic or transcriptomic data of _Turritopsis dohrnii_ and _Turritopsis rubra_.
 Use genome assemblers like SPAdes and de novo assembly methods.
 
-Gene Annotation:
+**Gene Annotation:**
 
-Annotate genes in the assembled genomes using Maker.
+-Annotate genes in the assembled genomes using Maker.
 
-Comparative Genomics:
+**Comparative Genomics:**
 
-Use BLAST to compare genes across _Turritopsis dohrnii_, _Turritopsis rubra_, and potentially other species.
+-Use BLAST to compare genes across _Turritopsis dohrnii_, _Turritopsis rubra_, and potentially other species.
 
-Sequence Alignment:
+**Sequence Alignment:**
 
-Align orthologous gene sequences using MAFFT.
+-Align orthologous gene sequences using MAFFT.
 
-Phylogenetic Tree Construction:
+**Phylogenetic Tree Construction:**
 
-Construct a phylogenetic tree using iqtree.
+-Construct a phylogenetic tree using iqtree.
