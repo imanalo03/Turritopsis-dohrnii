@@ -1,3 +1,4 @@
-#Download sratoolkit
+#Download nucleotide sequences from NCBI
+#Make a txt.file for each mitochondrion species
 
-wget https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit/sratoolkit.3.0.7-ubuntu64.tar.gz
+nano txt.file
