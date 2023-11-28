@@ -1,26 +1,35 @@
-# JellyGene Project: Exploring the Genetic Wonders of the Immortal Jellyfish - Using mitochondrion gene to find one which species are related to T.dohrnii and how these gene differ from other species
+# JellyGene Project: Exploring Mitochondrial Diversity in the Immortal Jellyfish
+
 **Overview**
 
-Welcome to the JellGene Project repository! The focus of this project is to investigate _Turritopsis dohrnii_, a unique type of jellyfish. This jellyfish is truly amazing since it has a unique ability that no other animal possesses: the ability to reverse its life cycle and prevent aging and death. For the most part, animals follow a linear path from birth through adulthood, old age, and death. Not the immortal jellyfish, though! It has the ability to revert to its youthful state rather than age when faced with difficult or stressful situations. This special ability is like pressing a restart button for its cells, keeping the jellyfish from getting old. 
+Welcome to the JellyGene Project repository! This project aims to unravel the mysteries of the immortal jellyfish, _Turritopsis dohrnii_, by exploring the diversity in its mitochondria and comparing it with _Turritopsis rubra_ and other selected species. The focus is on understanding how the mitochondria of these species differ and how they are related evolutionarily.
 
-This research explores the reasons why immortal jellyfish stay young, avoid aging, and escape death from old age. By examining their genes and comparing them with _Turritopsis rubra_, a regular jellyfish, I aim to identify the specific genes responsible for this extraordinary trait. The hope is that understanding these immortal genes will shed more light on the aging process and help find ways to keep cells healthy and rejuvenated.
+**Objectives**
 
-**Obtain Genomic or Transcriptomic Data:**
+1. **Obtain Genomic or Transcriptomic Data:**
+   - Search public databases like NCBI for available datasets of _Turritopsis dohrnii_, _Turritopsis rubra_, and other chosen species.
 
--Search public databases like NCBI for available datasets of _Turritopsis dohrnii_ and _Turritopsis rubra_.
+2. **Comparative Genomics of Mitochondria:**
+   - Utilize BLAST to compare mitochondrial genes across _Turritopsis dohrnii_, _Turritopsis rubra_, and selected species.
 
-**Comparative Genomics:**
+3. **Sequence Alignment of Mitochondrial Genes:**
+   - Align orthologous mitochondrial gene sequences using MAFFT.
 
--Use BLAST to compare genes across _Turritopsis dohrnii_, _Turritopsis rubra_, and potentially other species.
+4. **Phylogenetic Tree Construction:**
+   - Construct a phylogenetic tree using iqtree to visualize the evolutionary relationships among _Turritopsis dohrnii_, _Turritopsis rubra_, and other species based on their mitochondrial genes.
 
-**Sequence Alignment:**
+5. **Visualization of Mitochondrial Variation:**
+   - Explore the variation in _Turritopsis dohrnii_'s mitochondria compared to other species. Visualize the aligned sequences to gain insights into the unique features of the immortal jellyfish's mitochondria.
 
--Align orthologous gene sequences using MAFFT.
+**Future Applications**
 
-**Phylogenetic Tree Construction:**
+As we delve into the mitochondrial diversity of the immortal jellyfish, the findings of this study pave the way for potential future applications. Imagine unlocking the secrets encoded in the other genes of _Turritopsis dohrnii_ that contribute to its immortality. This knowledge could have profound implications for understanding the aging process in humans and developing strategies to maintain cell health and rejuvenation.
 
--Construct a phylogenetic tree using iqtree.
+**Join the Exploration**
 
-**Visualization:**
-- Find out how T.dohrnni mitochondrion varies from the other species. Using the output from MAFFT and visualizing using MSA?.
+Feel free to explore the repository, contribute your insights, and be part of the journey to uncover the genetic wonders of the immortal jellyfish!
+
+
+
+
 
