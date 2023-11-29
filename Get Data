@@ -1,4 +1,19 @@
-#Download nucleotide sequences from NCBI
-#Make a txt.file for each mitochondrion species
+ collected nucleotide sequences for different mitochondrial species from NCBI. For organization and ease of use, I created individual text files for each species, naming them as species1.txt, species2.txt, etc. Each file follows a format where each entry starts with the > symbol followed by the species identifier and the corresponding filename.
 
-nano txt.file
+Code Snippet:
+bash
+Copy code
+# Create individual text files for each species
+echo ">Species1" > species1.txt
+cat species1.fasta >> species1.txt
+
+echo ">Species2" > species2.txt
+cat species2.fasta >> species2.txt
+
+# Repeat for other species...
+
+# Concatenate all individual species files into a single file
+cat *.txt > combined_species.txt
+In the code snippet, replace species1.fasta, species2.fasta, etc., with the actual filenames of your nucleotide sequences in FASTA format. Adjust the species identifiers accordingly.
+
+This script creates individual text files for each species and then combines them into a single file named combined_species.txt. The combined file can be used for further analysis or processing.
