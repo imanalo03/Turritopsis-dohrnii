@@ -1,3 +1,2 @@
-I gathered nucleotide sequences from NCBI for many mitochondrial species. 
-I made separate text files with the names species1.txt, species2.txt, and so on for each species in order to make them easier to use and organize. 
-Every file has a format where each item begins with the symbol > and is followed by the filename and species nucleotide fasta sequences.
+I've compiled mitochondrial genome sequences from diverse species, obtained from NCBI. Using the 'nano' command, I organized the data into individual text files, adopting clear naming conventions like species1.txt. 
+Each file follows the FASTA format, starting with the '>' symbol, followed by the filename and species-specific mitochondrial nucleotide sequences.
