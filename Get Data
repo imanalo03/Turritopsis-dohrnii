@@ -2,15 +2,15 @@ I've compiled mitochondrial genome sequences from diverse species, obtained from
 Using the 'nano' command, I organized the data into individual text files, choosing simple and clear names like species1.txt. 
 Each file follows the FASTA format, starting with the '>' symbol, followed by the filename and species-specific mitochondrial nucleotide sequences.
 
-#Example code to create a text file for a species using nano
-nano species1.txt
+#My code to create a text file for a species using nano
+nano species_mitochondrion_sequence.fasta
 
-#Content within species1.txt
->Species1
+#Content within species_mitochondrion_sequence.fasta
+>species_mitochondrion_sequence.fasta
 ATCGATCGATCG...
 
 Then, I put them all together into one file so it's easy to find and use everything. 
-# Assuming you are in the directory containing your text files
-cat species*.txt > combined_sequences.fasta
+#In the directory containing my text files
+cat *sequence.fasta > combined_MT.iv
 Now, all the sequences are stored together.
 
