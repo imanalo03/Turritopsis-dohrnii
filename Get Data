@@ -1,10 +1,10 @@
 I've compiled mitochondrial genome sequences from diverse species, obtained from NCBI. Using the 'nano' command, I organized the data into individual text files, adopting clear naming conventions like species1.txt. 
 Each file follows the FASTA format, starting with the '>' symbol, followed by the filename and species-specific mitochondrial nucleotide sequences.
 
-# Example code to create a text file for a species using nano
+#Example code to create a text file for a species using nano
 nano species1.txt
 
-# Content within species1.txt
+#Content within species1.txt
 >Species1
 ATCGATCGATCG...
 
