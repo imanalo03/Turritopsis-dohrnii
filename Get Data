@@ -8,3 +8,8 @@ nano species1.txt
 >Species1
 ATCGATCGATCG...
 
+Then, I put them all together into one file so it's easy to find and use everything. 
+# Assuming you are in the directory containing your text files
+cat species*.txt > combined_sequences.fasta
+Now, all the sequences are stored together.
+
