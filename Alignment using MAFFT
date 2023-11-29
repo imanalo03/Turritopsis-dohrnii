@@ -1,1 +1,7 @@
+I aligned the genetic sequences of T. dohrnii, T. rubra, Gallus gallus, Homo sapiens, A. aurita, H. vulgaris, and D. rerio using MAFFT, a versatile multiple sequence alignment tool.
+By using the '--auto' option, the command enables MAFFT to choose the best alignment, taking into account the length of the input sequence. 
+Next, the sequences that have been aligned are stored in the 'output_MT.iv file'. This process makes sure that genetic data from several species may be compared accurately and effectively.
+
+## Applied MAFFT for multiple sequence alignment of T. dohrnii, T. rubra, Gallus Gallus, Homo sapiens, A. aurita, H. vulgaris, and D. rerio genetic sequences.
+mafft -- auto combined_MT.fasta > output_MT.iv
 
