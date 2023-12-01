@@ -1,1 +1,16 @@
+I utilized IQ-TREE for constructing phylogenetic trees, analyzing 16s rRNA sequences. 
+
+#My code for iqtree
+
+iqtree -s output_MT.iv -m GTR -bb 1000 -pre Tdohrnii_tree
+
+The parameters used in this command are:
+
+#(-s):** This specifies my input sequence file. My file that contains all my 16s rRNA is 'output_MT.iv'
+
+#(-m):** This specifies the nucleotide substitution model. I choose the General Time Reversible (GTR) model, allowing for variable rates of substitution.
+
+#(-bb):** This specifies the bootstrapping value of 1000 replicates to assess the robustness of the tree.
+
+#(-pre):** Here it assigns a prefix for my output files, with "Tdohrnii_tree" used as the prefix in my case.
 
