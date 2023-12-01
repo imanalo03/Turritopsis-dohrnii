@@ -20,6 +20,8 @@ Welcome to the JellyGene Project repository! This project aims to unravel the my
 
 5. **Comparative Analysis**
    - Analyze the sequence variations on the 16s rRNA of _Turritopis dohrnii_ and the other species.
+   
+![image](https://github.com/imanalo03/Turritopsis-dohrnii/assets/147445291/14e64d94-6702-40b5-a369-843c4aea74d4)
 
 **Future Applications**
 
