@@ -7,19 +7,19 @@ Welcome to the JellyGene Project repository! This project aims to unravel the my
 **Objectives**
 
 1. **Obtain Genomic or Transcriptomic Data:**
-   - Search public databases like NCBI for available datasets of _Turritopsis dohrnii_, _Turritopsis rubra_, and other chosen species.
+   - Search public databases like NCBI for available datasets of _Turritopsis dohrnii_, _Turritopsis rubra_, _Aurelia aurita_, _Hydra vulgaris_, _Homo sapiens_, _Danio rerio,_ and _Gallus gallus_
 
-2. **Comparative Genomics of Mitochondria:**
-   - Utilize BLAST to compare mitochondrial genes across _Turritopsis dohrnii_, _Turritopsis rubra_, and selected species.
-
-3. **Sequence Alignment of Mitochondrial Genes:**
+2. **Sequence Alignment of 16s rRNA:**
    - Align orthologous mitochondrial gene sequences using MAFFT.
 
-4. **Phylogenetic Tree Construction:**
-   - Construct a phylogenetic tree using iqtree to visualize the evolutionary relationships among _Turritopsis dohrnii_, _Turritopsis rubra_, and other species based on their mitochondrial genes.
+3. **Phylogenetic Tree Construction:**
+   - Construct a phylogenetic tree using iqtree to visualize the evolutionary relationships among _Turritopsis dohrnii_, _Turritopsis rubra_, _Aurelia aurita_, _Hydra vulgaris_, _Homo sapiens_, _Danio rerio,_ and _Gallus gallus_ based on their 16s rRNA sequences and bootstrap the tree for statistical support.
 
-5. **Visualization of Mitochondrial Variation:**
-   - Explore the variation in _Turritopsis dohrnii_'s mitochondria compared to other species. Visualize the aligned sequences to gain insights into the unique features of the immortal jellyfish's mitochondria.
+4. **Visualization of Mitochondrial Variation:**
+   - Visualizing the variation in _Turritopsis dohrnii_'s 16s rRNA compared to other species using iTOL.
+
+5. **Comparative Analysis**
+   - Analyze the sequence variations on the 16s rRNA of _Turritopis dohrnii_ and the other species.
 
 **Future Applications**
 
