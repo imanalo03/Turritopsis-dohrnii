@@ -31,7 +31,6 @@ In another group with _Gallus gallus_, _Homo sapiens, and T. rubra_, there are v
 In conclusion, this phylogenetic tree visually narrates the diverse evolutionary paths of these species, emphasizing _T. dohrnii_'s unique position and shedding light on the genetic factors influencing its extraordinary life cycle of revival.
 
 ![image](https://github.com/imanalo03/Turritopsis-dohrnii/assets/147445291/14e64d94-6702-40b5-a369-843c4aea74d4)
-iTOL
 
 **Future Applications**
 
